@@ -1,7 +1,9 @@
 # Teachers' Helper
 
-## author: Yuan Ruiqi
+## General information
 
-## copyright: Copyright (C) 2022 Yuan Ruiqi
+author: Yuan Ruiqi
 
-## latest version: 1.1
+copyright: Copyright (C) 2022 Yuan Ruiqi
+
+latest version: 1.1
